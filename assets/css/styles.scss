@@ -1,0 +1,12 @@
+body {
+    background-color: #F5F5EB;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Full height */
+    margin: 0; /* Remove default margin */
+}
+
+.grid-row {
+    align-items: center; 
+}
+
